@@ -4,15 +4,15 @@
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
+## ✨ Probieren Sie Jupyterlite selbst in Ihrem Browser ✨
 
 ➡️ **https://jupyterlite.github.io/demo**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
+## Voraussetzungen
 
-JupyterLite is being tested against modern web browsers:
+JupyterLite wurde mit folgenden modernen Browsern getestet:
 
 - Firefox 90+
 - Chromium 89+
@@ -21,9 +21,9 @@ JupyterLite is being tested against modern web browsers:
 
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
+## Weitere Inormationen und Updates
 
-For more info, keep an eye on the JupyterLite documentation:
+Für weitere Infos besuchen Sie die JupyterLite Dokumentation:
 
 - How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
 - Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
